@@ -22,7 +22,8 @@ jobs:
       env:
         NODE_ENV: production
         # Remove this line if you would like to skip using google analytics
-        REACT_APP_GA_TRACKING_ID: ${{ secrets.REACT_APP_GA_TRACKING_ID }}
+        # REACT_APP_GA_TRACKING_ID: ${{ secrets.REACT_APP_GA_TRACKING_ID }}
+        REACT_APP_GA_MEASUREMENT_ID: ${{ secrets.REACT_APP_GA_MEASUREMENT_ID }} # Use GA4
         # This is set automatically by github
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
