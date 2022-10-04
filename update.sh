@@ -1,1 +1,1 @@
-cp ../my-resume/resume.pdf ./src/data/resume/
+cp ../resume/resume.pdf ./src/data/resume/
