@@ -21,7 +21,7 @@ const extras = [
     ],
   },
   {
-    company: 'Global China COnnection',
+    company: 'Global China Connection',
     position: '2020 GCC Global Summit: Committee Member',
     link: 'https://gccglobal.org/',
     daterange: 'September 2019 - Present',

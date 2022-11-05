@@ -1,5 +1,19 @@
 const jobs = [
   {
+    company: 'Meta Platforms, Inc.',
+    position: 'Software Engineer Intern',
+    link: 'https://www.bentley.com/en',
+    daterange: 'June 2022 - Sep. 2022',
+    points: [
+
+      'Generated new bodies by applying classical machine learning techniques',
+      'Analyzed and apply research ideas to generate realistic human bodies',
+      'Rendered and presented visualizations of bodies with PyTorch3D and Blender',
+      'Attached new heads and wrapped body meshes to different topologies',
+    ],
+  },
+
+  {
     company: 'Bentley Systems',
     position: 'Software Engineer Co-op',
     link: 'https://www.bentley.com/en',
@@ -7,7 +21,6 @@ const jobs = [
     points: [
       'Automated tests of npm test packages to minimize test flakiness via MS Azure CI/CD caching',
       'Created a responsive dashboard for visualizing our global services and their respective statuses via React.js & Azure Functions',
-      'Aggregated and visualized data & metrics for the team\'s quarterly reports via PowerBI',
       'Improved webhook functionality of add/edit/create by extending Azure\'s CLI tool\'s functionality',
     ],
   },
@@ -29,8 +42,6 @@ const jobs = [
       'Developed a Python Flask web app for managers to view and update 30 trader‑lead hierarchies, saving DBAs hours of labor',
       'Developed a file listener as a fail‑safe to extract over 30 types of market data to database',
       'Improved file parsing and RAM performance with buffers and raw byte reading for opening files larger than 5 gigabytes',
-      'Refined readability and performance on websites with file delivery compression and UI changes',
-      'Spearheaded 2 projects and collaborated with 7 members across 2 teams to effectively develop and quickly deploy code',
     ],
   },
   {
