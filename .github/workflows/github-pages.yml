@@ -17,7 +17,7 @@ jobs:
       with:
         node-version-file: '.nvmrc'
     - name: Install
-      run: npm ci
+      run: yarn install --frozen-lockfile
     - name: Build and Deploy
       env:
         NODE_ENV: production
@@ -30,4 +30,4 @@ jobs:
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
           git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/kevinismyname/personal-site.git
-          npm run deploy
+          yarn run deploy
