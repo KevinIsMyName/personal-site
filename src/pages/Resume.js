@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 import Main from "../layouts/Main";
 
-import Pdf from "../data/resume/resume.pdf";
+import Pdf from "../data/resume/Kevin_Wu_resume.pdf";
 
 const Resume = () => (
   <Main title="Resume" description="Kevin Wu's Resume.">
