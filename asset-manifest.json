@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.406d1a00.css",
-    "main.js": "/static/js/main.c745843f.js",
-    "static/js/964.82204d67.chunk.js": "/static/js/964.82204d67.chunk.js",
+    "main.js": "/static/js/main.113c0d78.js",
+    "static/js/964.914d9f2c.chunk.js": "/static/js/964.914d9f2c.chunk.js",
     "static/js/117.446d1c81.chunk.js": "/static/js/117.446d1c81.chunk.js",
     "static/js/478.7911087d.chunk.js": "/static/js/478.7911087d.chunk.js",
     "static/js/922.9ad6eb7a.chunk.js": "/static/js/922.9ad6eb7a.chunk.js",
@@ -14,8 +14,8 @@
     "static/media/Kevin_Wu_resume.pdf": "/static/media/Kevin_Wu_resume.57c9c99107985745e322.pdf",
     "index.html": "/index.html",
     "main.406d1a00.css.map": "/static/css/main.406d1a00.css.map",
-    "main.c745843f.js.map": "/static/js/main.c745843f.js.map",
-    "964.82204d67.chunk.js.map": "/static/js/964.82204d67.chunk.js.map",
+    "main.113c0d78.js.map": "/static/js/main.113c0d78.js.map",
+    "964.914d9f2c.chunk.js.map": "/static/js/964.914d9f2c.chunk.js.map",
     "117.446d1c81.chunk.js.map": "/static/js/117.446d1c81.chunk.js.map",
     "478.7911087d.chunk.js.map": "/static/js/478.7911087d.chunk.js.map",
     "922.9ad6eb7a.chunk.js.map": "/static/js/922.9ad6eb7a.chunk.js.map",
@@ -27,6 +27,6 @@
   },
   "entrypoints": [
     "static/css/main.406d1a00.css",
-    "static/js/main.c745843f.js"
+    "static/js/main.113c0d78.js"
   ]
 }
