@@ -23,7 +23,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         Hi! I&apos;m Kevin. I like learning about and socializing with others. I
-        am a <a href="https://drexel.edu/">Drexel University</a> student in
+        am a recent <a href="https://drexel.edu/">Drexel University</a> graduate in
         Philadelphia, PA.
       </p>
       <ul className="actions">
