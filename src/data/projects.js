@@ -1,6 +1,22 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'gm-bot',
+    // image: '/images/projects/missing.jpg',
+    link: 'https://github.com/KevinIsMyName/kwotes',
+    date: '2023-11-01',
+    desc:
+      'A Discord bot to track ”good morning” streaks, similar to Snapchat streaks',
+  },
+  {
+    title: 'Bard',
+    // image: '/images/projects/missing.jpg',
+    link: 'https://github.com/KevinIsMyName/https://gitlab.com/drexel_se/senior_project/ay22_bard/bard',
+    date: '2023-06-01',
+    desc:
+      'A Dungeons & Dragons soundboard app for iOS, Android, and web',
+  },
+  {
     title: 'Kwotes',
     // image: '/images/projects/missing.jpg',
     link: 'https://github.com/KevinIsMyName/kwotes',

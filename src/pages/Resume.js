@@ -14,7 +14,7 @@ const Resume = () => (
             <Link to="resume">Resume</Link>
           </h2>
           <a href={Pdf} target="_blank" rel="noreferrer">
-            Click here to view the PDF in a separate page.
+            Click here to view/download the PDF in a separate page.
           </a>
         </div>
       </header>
